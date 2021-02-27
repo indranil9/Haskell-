@@ -1,13 +1,13 @@
-                                                         ## Assignment 1
+# Assignment 1
 
 #### Question1
 * Define a function isPerfect :: Integer -> Bool that checks if the given input (a positive integer) is a perfect
-* number. A positive integer is perfect if it is the sum of all its proper divisors.
+number. A positive integer is perfect if it is the sum of all its proper divisors.
 
 
 #### Question2
 * Define a function nextPerfect :: Integer -> Integer such that for each positive integer n, nextPerfect n
-* returns the least perfect number m > n.
+returns the least perfect number m > n.
 
 
 #### Question3
